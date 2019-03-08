@@ -1,0 +1,10 @@
+name: Feed Json
+core: 8.x
+version: 8.x-1.0
+type: module
+package: eBank
+description: eBank Module for decode Json enpoint
+
+# The list of dependencies must contains the 'field' value
+dependencies:
+  - field
